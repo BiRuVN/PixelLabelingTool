@@ -20,7 +20,7 @@ git clone https://github.com/BiRuVN/PixelLabelingTool.git
 
 ### Setup dataset path and labels
 
-- Open class_label.py
+- Open editing class_label.py
 
 - Edit this part:
 
