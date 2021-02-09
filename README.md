@@ -15,9 +15,7 @@ For example: label pixel(s) for fingertip(s) in the image (if can be seen), so 1
 ### Installation
 
 ```
-
 git clone https://github.com/BiRuVN/PixelLabelingTool.git
-
 ```
 
 ### Setup dataset path and labels
@@ -35,9 +33,7 @@ git clone https://github.com/BiRuVN/PixelLabelingTool.git
 - Run cmd:
 
 ```
-
 python class_label.py
-
 ```
 
 - Move your mouse to the coordinate you want.
