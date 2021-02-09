@@ -8,7 +8,7 @@ For example: label pixel(s) for fingertip(s) in the image (if can be seen), so 1
 
 ![Screenshot](screenshot.PNG)
 
-_ _ This is an image from the HandGesture Dataset https://www.gti.ssr.upm.es/data/HandGesture_database.html _ _
+*This is an image from the HandGesture Dataset https://www.gti.ssr.upm.es/data/HandGesture_database.html*
 
 ## Getting Started
 
